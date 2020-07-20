@@ -1,2 +1,2 @@
 # class_models
-Some class models
+Some classification models
